@@ -1,0 +1,33 @@
+#task {
+    background-color: #dee3e6;
+    width: 300px;
+    border: 22px #000;
+    padding: 0px;
+    margin: 10px;
+}
+
+#todoform {
+    width: 100%;
+    margin: 10px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 100px auto 0;
+  }
+
+  button {
+    background: none;
+    border: 0px;
+    color: #888;
+    font-size: 15px;
+    width: 60px;
+    margin: 10px 0 0;
+    font-family: Lato, sans-serif;
+    cursor: pointer;
+  }
+
+  button:hover {
+    color: #333;
+  }
